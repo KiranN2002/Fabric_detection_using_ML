@@ -1,0 +1,82 @@
+Defect ID,Defect Name,Defect Type,Location,Severity,Size,Color,Date Detected,Detected By,Comments
+1,Hole,Mechanical Defect,Left Edge,Major,Small,NA,2024-08-26,John Doe,Visible in the fabric's edge
+2,Tear,Weave Defect,Center,Critical,Medium,NA,2024-08-25,Jane Smith,Requires immediate repair
+3,Stain,Dye Defect,Right Edge,Minor,Large,Red,2024-08-24,Emily White,Stain not affecting structural integrity
+4,Wrinkle,Mechanical Defect,Center,Minor,Small,NA,2024-08-23,Michael Brown,Temporary wrinkle
+5,Missing Thread,Weave Defect,Left Edge,Major,Medium,NA,2024-08-22,Anna Black,Thread missing in a pattern area
+6,Pin Hole,Mechanical Defect,Bottom Right,Minor,Small,NA,2024-08-21,Paul Green,Small pinhole observed
+7,Fading,Dye Defect,Top Left,Minor,Large,Blue,2024-08-20,Laura Adams,Color has faded over time
+8,Uneven Dye,Dye Defect,Center,Major,Medium,Green,2024-08-19,Mark Wilson,Dye unevenness in the center
+9,Fraying,Weave Defect,Top Right,Major,Medium,NA,2024-08-18,Nina Lee,Edges of the fabric are fraying
+10,Broken Yarn,Weave Defect,Bottom Center,Critical,Large,NA,2024-08-17,Robert King,Significant yarn breakage
+11,Color Bleeding,Dye Defect,Left Edge,Minor,Medium,Orange,2024-08-16,Olivia Hall,Color bleeding observed
+12,Tarnish,Dye Defect,Right Edge,Minor,Small,Gray,2024-08-15,James Scott,Tarnishing in specific areas
+13,Loose Threads,Mechanical Defect,Bottom Left,Major,Small,NA,2024-08-14,Anna Black,Loose threads observed
+14,Scratch,Mechanical Defect,Top Center,Minor,Small,NA,2024-08-13,Sarah Turner,Surface scratch noticed
+15,Inconsistent Pattern,Weave Defect,Center,Major,Large,NA,2024-08-12,David Morris,Pattern inconsistencies
+16,Over-Dye,Dye Defect,Top Right,Minor,Medium,Purple,2024-08-11,Jessica Harris,Over-dyed in certain areas
+17,Missed Weave,Weave Defect,Bottom Center,Major,Medium,NA,2024-08-10,Michael Brown,Weave pattern missed
+18,Spot Stain,Dye Defect,Top Left,Minor,Small,Brown,2024-08-09,Emma Walker,Small spot stain present
+19,Loose Stitch,Mechanical Defect,Center,Minor,Small,NA,2024-08-08,Henry Adams,Loose stitching observed
+20,Crease,Mechanical Defect,Right Edge,Minor,Medium,NA,2024-08-07,Grace Cooper,Fabric creased in some areas
+21,Dimensional Variation,Weave Defect,Left Edge,Major,Large,NA,2024-08-06,Liam Evans,Dimensional differences noted
+22,Improper Finishing,Mechanical Defect,Center,Major,Large,NA,2024-08-05,Sophia Turner,Finishing is not up to standard
+23,Color Variation,Dye Defect,Bottom Right,Minor,Medium,Yellow,2024-08-04,Daniel White,Variation in color tone
+24,Broken Thread,Weave Defect,Top Left,Critical,Medium,NA,2024-08-03,Olivia Nelson,Thread breakage observed
+25,Stitch Skipping,Mechanical Defect,Center,Major,Medium,NA,2024-08-02,Lucas Hill,Skipped stitches in fabric
+26,Pattern Misalignment,Weave Defect,Right Edge,Major,Large,NA,2024-08-01,Eva Scott,Pattern alignment issues
+27,Fabric Puckering,Mechanical Defect,Left Edge,Minor,Medium,NA,2024-07-31,Michael Davis,Puckering observed along edge
+28,Excessive Dye,Dye Defect,Top Center,Minor,Large,Black,2024-07-30,Alice Mitchell,Excessive dye in some areas
+29,Spotty Weave,Weave Defect,Bottom Left,Major,Medium,NA,2024-07-29,John Robinson,Spots in the weave pattern
+30,Inconsistent Texture,Mechanical Defect,Top Right,Minor,Medium,NA,2024-07-28,Lily Clark,Texture inconsistent across fabric
+31,Discoloration,Dye Defect,Right Edge,Minor,Medium,Gray,2024-07-27,David Martinez,Discoloration observed
+32,Torn Edge,Mechanical Defect,Bottom Right,Critical,Large,NA,2024-07-26,Susan Harris,Torn edge requires repair
+33,Embroidery Error,Weave Defect,Center,Major,Medium,NA,2024-07-25,Megan Lewis,Error in embroidery pattern
+34,Over-Stitching,Mechanical Defect,Left Edge,Minor,Small,NA,2024-07-24,Jack Young,Excessive stitching observed
+35,Pattern Fading,Dye Defect,Top Center,Major,Medium,Red,2024-07-23,Lauren Walker,Fading of pattern color
+36,Snagged Fabric,Mechanical Defect,Bottom Center,Minor,Small,NA,2024-07-22,Robert Wilson,Snag in fabric observed
+37,Faulty Seams,Weave Defect,Right Edge,Critical,Medium,NA,2024-07-21,Natalie Scott,Seam faults affecting integrity
+38,Patchy Dye,Dye Defect,Center,Minor,Large,Blue,2024-07-20,Daniel Wright,Dye patchiness observed
+39,Bulked Threads,Mechanical Defect,Top Left,Major,Medium,NA,2024-07-19,Jessica Evans,Threads appear bulked
+40,Pattern Crooked,Weave Defect,Bottom Right,Major,Large,NA,2024-07-18,Michael Brown,Crooked pattern noticed
+41,Wrinkled Fabric,Mechanical Defect,Right Edge,Minor,Medium,NA,2024-07-17,Sarah Green,Wrinkles in fabric observed
+42,Color Run,Dye Defect,Top Left,Minor,Medium,Orange,2024-07-16,James Lee,Color running in certain areas
+43,Unravelling,Weave Defect,Bottom Left,Critical,Large,NA,2024-07-15,Emily Harris,Unravelling in fabric
+44,Thread Count Error,Weave Defect,Top Right,Major,Medium,NA,2024-07-14,Michael Harris,Error in thread count
+45,Stain Spread,Dye Defect,Center,Minor,Large,Green,2024-07-13,Grace Adams,Stain spread observed
+46,Loose Weave,Weave Defect,Bottom Right,Major,Medium,NA,2024-07-12,Olivia Walker,Loose weave pattern
+47,Color Smudge,Dye Defect,Right Edge,Minor,Small,Black,2024-07-11,John Smith,Color smudge noticed
+48,Irregular Edges,Mechanical Defect,Top Center,Major,Medium,NA,2024-07-10,Emily Clark,Irregularities in fabric edges
+49,Indentation,Mechanical Defect,Bottom Center,Minor,Small,NA,2024-07-09,Robert Johnson,Indentation observed
+50,Thread Tangle,Weave Defect,Top Left,Major,Medium,NA,2024-07-08,Lily Martinez,Thread tangling in weave
+51,Bubbled Surface,Dye Defect,Left Edge,Minor,Medium,Blue,2024-07-07,James Brown,Bubble-like surface texture
+52,Frayed Edges,Mechanical Defect,Bottom Left,Major,Medium,NA,2024-07-06,Susan White,Edges are significantly frayed
+53,Uneven Stitching,Mechanical Defect,Center,Minor,Small,NA,2024-07-05,Michael Taylor,Stitching uneven in spots
+54,Dye Bleeding,Dye Defect,Top Right,Minor,Medium,Red,2024-07-04,Laura Johnson,Dye bleeding into adjacent areas
+55,Patch Defect,Weave Defect,Bottom Center,Major,Medium,NA,2024-07-03,Emily Brown,Defect in patch application
+56,Over-Lapping Fabric,Mechanical Defect,Right Edge,Minor,Medium,NA,2024-07-02,Mark Davis,Overlap of fabric layers
+57,Wrinkled Edges,Mechanical Defect,Top Center,Minor,Medium,NA,2024-07-01,Olivia Scott,Edges showing wrinkles
+58,Dye Discoloration,Dye Defect,Center,Minor,Medium,Pink,2024-06-30,David Brown,Discoloration in dye
+59,Pattern Flaws,Weave Defect,Top Right,Major,Medium,NA,2024-06-29,Nina Green,Flaws in the pattern observed
+60,Frayed Seams,Weave Defect,Bottom Left,Major,Medium,NA,2024-06-28,Emma White,Seams showing significant fraying
+61,Color Mismatch,Dye Defect,Right Edge,Minor,Medium,Gray,2024-06-27,Jack Taylor,Mismatch in dye color
+62,Loose Fabric,Mechanical Defect,Left Edge,Major,Medium,NA,2024-06-26,Susan Harris,Loose fabric along edge
+63,Thread Pulling,Mechanical Defect,Center,Minor,Small,NA,2024-06-25,John Green,Threads are pulling away
+64,Pattern Discrepancy,Weave Defect,Top Left,Major,Medium,NA,2024-06-24,Lauren Adams,Discrepancy in pattern alignment
+65,Stain Residue,Dye Defect,Bottom Right,Minor,Medium,Yellow,2024-06-23,Daniel Nelson,Residual stain visible
+66,Crease Marks,Mechanical Defect,Right Edge,Minor,Medium,NA,2024-06-22,Emily Clark,Crease marks on fabric
+67,Bleeding Colors,Dye Defect,Top Center,Major,Large,Red,2024-06-21,Megan Brown,Colors bleeding into one another
+68,Thread Breakage,Weave Defect,Bottom Center,Critical,Medium,NA,2024-06-20,Robert Harris,Broken threads disrupting weave
+69,Uneven Dyeing,Dye Defect,Left Edge,Major,Medium,Green,2024-06-19,Sarah Lee,Dyeing is uneven in spots
+70,Pattern Wrinkle,Mechanical Defect,Top Right,Minor,Medium,NA,2024-06-18,Jack Smith,Wrinkles in pattern area
+71,Discolored Thread,Weave Defect,Center,Major,Small,NA,2024-06-17,Olivia Johnson,Thread discoloration noted
+72,Excessive Fraying,Mechanical Defect,Bottom Right,Major,Medium,NA,2024-06-16,Emily Walker,Excessive fraying of edges
+73,Irregular Dyeing,Dye Defect,Top Left,Minor,Medium,Blue,2024-06-15,David Adams,Dye irregularities present
+74,Snagged Threads,Mechanical Defect,Center,Minor,Small,NA,2024-06-14,James Davis,Threads snagged in fabric
+75,Stretched Fabric,Mechanical Defect,Bottom Left,Minor,Medium,NA,2024-06-13,Laura Martinez,Fabric stretched out of shape
+76,Color Spots,Dye Defect,Right Edge,Minor,Small,Orange,2024-06-12,John Lee,Color spots scattered
+77,Pattern Fraying,Weave Defect,Top Center,Major,Medium,NA,2024-06-11,Susan White,Fraying around pattern areas
+78,Thread Unevenness,Weave Defect,Bottom Center,Minor,Small,NA,2024-06-10,Megan Taylor,Uneven threads observed
+79,Color Fade,Dye Defect,Left Edge,Minor,Medium,Gray,2024-06-09,David Martinez,Fading of color over time
+80,Unfinished Edges,Mechanical Defect,Top Right,Major,Medium,NA,2024-06-08,Emily Scott,Edges not properly finished
+
